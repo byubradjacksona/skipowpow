@@ -1,0 +1,61 @@
+
+
+header{
+  color: bisque;
+  text-align: center;
+}
+
+
+body{
+
+  color: antiquewhite;
+  background-image: url("FS-background.jpg");
+  font-family: 'Russo One', sans-serif;
+
+}
+
+nav{
+  line-height: 15;
+  text-align: center;
+}
+
+h1{
+  font-size: xx-large;
+  text-align: center;
+}
+
+h3{
+  color: rgb(188, 166, 241);
+  font-family: 'Lexend', sans-serif;
+  text-align: center;
+  background-color: rgb(27, 34, 33);;
+}
+
+div{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20px;
+  height: 15%;
+  line-height: 5;
+  background-color: antiquewhite;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 70%;
+}
+
+p{
+  color: rgb(27, 34, 33);
+  background-color: rgb(191, 156, 236);
+}
+
+
+a{
+  color: antiquewhite;
+  font-size: xx-large;
+}
